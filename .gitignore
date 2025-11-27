@@ -1,0 +1,44 @@
+# Ignore CSV files
+*.csv
+
+# Ignore specific folders
+bi_signal_calls/
+towers/
+mono_signal_calls/
+
+# Ignore compiled classes
+*.class
+
+# Ignore Scala files
+*.scala
+
+# Ignore JAR files
+*.jar
+
+# Keep code files and SQL scripts
+!*.java
+!*.sql
+!*.py
+!*.js
+!*.ts
+
+# Ignore common build artifacts
+target/
+build/
+dist/
+*.o
+*.so
+
+# Ignore IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore logs
+*.log
+

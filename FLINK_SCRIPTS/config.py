@@ -1,0 +1,5 @@
+MONO_SIGNAL_FILE = "/home/shreyasarun/Documents/Sem-7/SDS/Endterm-Project/Data/5000_60_30/mono_signal_calls_merged.csv"
+BI_SIGNAL_FILE = "/home/shreyasarun/Documents/Sem-7/SDS/Endterm-Project/Data/5000_60_30/bi_signal_calls_merged.csv"
+TOWER_SIGNAL_FILE = "/home/shreyasarun/Documents/Sem-7/SDS/Endterm-Project/Data/5000_60_30/mono_signal_towers_merged.csv"
+BI_TOWER_FILE = "/home/shreyasarun/Documents/Sem-7/SDS/Endterm-Project/Data/5000_60_30/bi_signal_towers_merged.csv"
+OUTPUT_DIR = "/home/shreyasarun/Documents/Sem-7/SDS/Endterm-Project/FLINK/output/"
